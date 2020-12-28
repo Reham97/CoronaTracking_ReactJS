@@ -10,10 +10,10 @@ npm install
 ```
 
 ### Screenshots
-<img src="images/pic1.png" width="500" height="500">
-<img src="images/pic2.png" width="500" height="500">
-<img src="images/pic3.png" width="500" height="500">
-<img src="images/pic4.png" width="500" height="500">
-<img src="images/pic5.png" width="500" height="500">
+<img src="images/pic1.png" width="500" height="350">
+<img src="images/pic2.png" width="500" height="350">
+<img src="images/pic3.png" width="500" height="350">
+<img src="images/pic4.png" width="500" height="350">
+<img src="images/pic5.png" width="500" height="350">
 
 
